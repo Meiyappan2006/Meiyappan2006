@@ -11,6 +11,7 @@
 - Active member of the Coding Club management team, contributing to tech events and peer learning.
 - Aspiring Software Development Engineer, eager to work on challenging problems and high-impact products.
 
+<hr style="height:3px;border:none;background:#444;" />
 
 ## 🎓 Education
 
@@ -25,6 +26,8 @@
 - Actively participated in technical clubs and events, contributing as part of the coding club management team.
 - Completed multiple industry-oriented projects that strengthened practical skills in AI, full stack development, and backend systems.
 
+<hr style="height:3px;border:none;background:#444;" />
+
 ## 💼 Internships
 
 | Company | Position | Duration |
@@ -35,6 +38,8 @@
 
 - Completed an internship on Automatic Target Tracking (ATT) at DRDO, focusing on computer vision and deep learning applications.
 
+<hr style="height:3px;border:none;background:#444;" />
+
 ## ⚡ Fun Fact
 
 <div align="center">
@@ -43,6 +48,8 @@
 
 </div>
 
+<hr style="height:3px;border:none;background:#444;" />
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -50,6 +57,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/Meiyappan2006/)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/Menu0606hehe)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/menu-57a9a5298/)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hrithick.meiyz/)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/menu.fkx/)&nbsp;&nbsp;&nbsp;[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/https://medium.com/@meiyappanmeenal2005)&nbsp;&nbsp;&nbsp;[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/https://www.codechef.com/users/meiyappan_2006)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/https://www.hackerrank.com/profile/meiyappanmeenal1)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/https://codeforces.com/profile/Menu2006)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/Meiyappan2006/)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6380710277)
 
 </div>
+
+<hr style="height:3px;border:none;background:#444;" />
 
 ## 🛠️ Skills & Technologies
 
@@ -98,8 +107,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
----
+<hr style="height:3px;border:none;background:#444;" />
 
 <div align="center">
 
