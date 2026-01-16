@@ -113,6 +113,6 @@
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Meiyappan2006/&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Meiyappan2006&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>>
