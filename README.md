@@ -122,6 +122,7 @@
 ## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Meiyappan2006)
+![Activity Graph](./activity-graph.svg)
 
 
 <hr style="height:3px;border:none;background:#444;" />
