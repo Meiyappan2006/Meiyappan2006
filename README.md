@@ -121,7 +121,6 @@
 
 ## GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Meiyappan2006)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Meiyappan2006)
 
 
