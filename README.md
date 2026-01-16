@@ -103,19 +103,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats & Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Meiyappan2006/&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Meiyappan2006/&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/https://leetcode.com/u/Meiyappan2006/?theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Meiyappan2006/&layout=compact&theme=radical&langs_count=10)
-
-</div>
 
 ---
 
