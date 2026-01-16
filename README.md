@@ -121,7 +121,7 @@
 
 ## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meiyappan2006" />
+
 ![Activity Graph](./activity-graph.svg)
 
 
