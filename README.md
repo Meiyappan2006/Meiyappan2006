@@ -121,9 +121,8 @@
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meiyappan2006&show_icons=true&cache_seconds=1800)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Meiyappan2006)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Meiyappan2006)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiyappan2006&layout=compact)
 
 
 <hr style="height:3px;border:none;background:#444;" />
