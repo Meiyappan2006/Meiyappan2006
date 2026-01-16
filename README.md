@@ -3,19 +3,19 @@
 
 ## 🚀 About Me
 
-I’m Meiyappan, a 3rd-year Computer Science Engineering student specializing in Data Science at Sathyabama Institute of Science and Technology.
+- I’m Meiyappan, a 3rd-year Computer Science Engineering student specializing in Data Science at Sathyabama Institute of Science and Technology.
 
-Passionate about building real-world tech solutions using AI, Machine Learning, and Full Stack Development.
+- Passionate about building real-world tech solutions using AI, Machine Learning, and Full Stack Development.
 
-Strong in Python with hands-on experience in Django, REST APIs, and backend systems.
+- Strong in Python with hands-on experience in Django, REST APIs, and backend systems.
 
-Skilled in JavaScript, React, Node.js, Express.js, and PostgreSQL for full stack development.
+- Skilled in JavaScript, React, Node.js, Express.js, and PostgreSQL for full stack development.
 
-Currently focused on DSA, System Design, and building scalable applications.
+- Currently focused on DSA, System Design, and building scalable applications.
 
-Active member of the Coding Club management team, contributing to tech events and peer learning.
+- Active member of the Coding Club management team, contributing to tech events and peer learning.
 
-Aspiring Software Development Engineer, eager to work on challenging problems and high-impact products.
+- Aspiring Software Development Engineer, eager to work on challenging problems and high-impact products.
 
 
 
@@ -25,51 +25,14 @@ Aspiring Software Development Engineer, eager to work on challenging problems an
 
 - 🌱 I'm currently learning **My goal is to become a Software Development Engineer (SDE) who builds scalable, reliable, and impactful systems.
 
-I am continuously strengthening my foundation in Data Structures and Algorithms (DSA) to improve problem-solving and coding efficiency.
+- I am continuously strengthening my foundation in Data Structures and Algorithms (DSA) to improve problem-solving and coding efficiency.
 
-Actively learning system design basics, focusing on writing clean, maintainable, and production-ready code.
+- Actively learning system design basics, focusing on writing clean, maintainable, and production-ready code.
 
-Expanding my expertise in backend development using Python, Django, REST APIs, and database-driven architectures.**
+- Expanding my expertise in backend development using Python, Django, REST APIs, and database-driven architectures.**
 
 </div>
 
-## 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-| ATT - DRDO | Worked on building a custom object detection pipeline using YOLO for real-time target identification.
-
-Implemented ByteTrack for multi-object tracking to maintain consistent IDs across video frames.
-
-Trained and tested models in Google Colab using PyTorch, optimizing performance with limited data resources.
-
-Handled dataset preparation, annotation, and augmentation, including experiments with fog simulation to improve robustness.
-
-Analyzed model performance using metrics like precision, recall, and mAP, and fine-tuned hyperparameters for better accuracy.
-
-Gained practical exposure to end-to-end AI project workflow — from data preprocessing to deployment-ready models.
-
-Strengthened skills in computer vision, deep learning, and real-time video analytics through defense-oriented use cases. | [GitHub](https://github.com/Meiyappan2006/Automatic_target_tracker) |
-| Imagify- AI Image Converter | Imagify is an AI-powered image editing project designed to transform and personalize photos based on user requirements.
-
-Built features to perform face-based transformations, including converting images into themed concepts like mom–son, dad–daughter, and creative edits.
-
-Implemented computer vision techniques for face detection, alignment, and region-based editing to ensure natural-looking results. | [Live](https://imagify-client2-huhq.onrender.com/) / [GitHub](https://github.com/Meiyappan2006/Imagify) |
-| ZorvDX |  | [Live](https://res.cloudinary.com/dtj7ghsyt/image/upload/v1768553074/nbsfszdm32jfsbyi1zri.png) / [GitHub](https://zorvdx-port.vercel.app/) |
-
-### ATT - DRDO
-
-**Technologies Used:** python, yolov8, bytetrack, Colab, Machine Learning, Data Science, Vision Tracking, Model building
-
-### Imagify- AI Image Converter
-
-<img src="https://res.cloudinary.com/dtj7ghsyt/image/upload/v1768552859/yz7ogyvfcnlgfckanobe.png" alt="Imagify- AI Image Converter" width="500"/>
-
-**Technologies Used:** React.js, Node.js, Express.js, Razorpay, MongoDB, MERN
-
-### ZorvDX
-
-**Technologies Used:** Next.js, Node.js, TailwindCSS, Prisma, React.js, Framer-motion
 
 ## 🎓 Education
 
@@ -80,9 +43,9 @@ Implemented computer vision techniques for face detection, alignment, and region
 ### Bachelor's in Computer Science and Engineering
 *Sathyabama Institute of Science and Technology*
 
-Maintained a strong academic record with a 9.4 CGPA, earning a merit-based scholarship for consistent performance.
-Actively participated in technical clubs and events, contributing as part of the coding club management team.
-Completed multiple industry-oriented projects that strengthened practical skills in AI, full stack development, and backend systems.
+- Maintained a strong academic record with a 9.4 CGPA, earning a merit-based scholarship for consistent performance.
+- Actively participated in technical clubs and events, contributing as part of the coding club management team.
+- Completed multiple industry-oriented projects that strengthened practical skills in AI, full stack development, and backend systems.
 
 ## 💼 Internships
 
@@ -94,14 +57,6 @@ Completed multiple industry-oriented projects that strengthened practical skills
 
 Completed an internship on Automatic Target Tracking (ATT) at DRDO, focusing on computer vision and deep learning applications.
 
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **meiyappanmeenal2005@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/Meiyappan2006](https://github.com/Meiyappan2006)
-
-</div>
 
 ## ⚡ Fun Fact
 
@@ -165,21 +120,6 @@ Completed an internship on Automatic Target Tracking (ATT) at DRDO, focusing on 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<!-- GitHub Stats Card: GitHub username required -->
-
-<!-- GitHub Streak Stats: GitHub username required -->
-
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/ Meiyappan2006?theme=dark)
-
-<!-- Top Skills Card: GitHub username required -->
-
-</div>
-
----
 
 <div align="center">
 
