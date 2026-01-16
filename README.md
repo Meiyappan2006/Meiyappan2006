@@ -1,14 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&color=FFFFFF&width=435&lines=Hi+!+I'm+Meiyappan+!;I+am+a+3rd+Year+CSE+Student+!)](https://git.io/typing-svg)
 
-<div align="center">
-
-# Hi 👋, I'm [Your Name]
-
-### A passionate developer from [Your Location]
-
-<img src="https://github.com/https://github.com/Meiyappan2006/.png" alt="[Your Name]" width="150" height="150" style="border-radius: 50%;" />
-
-</div>
 
 ## 🚀 About Me
 
@@ -26,40 +17,6 @@
 
 - Aspiring Software Development Engineer, eager to work on challenging problems and high-impact products.
 
-## 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-| ATT - DRDO | Worked on building a custom object detection pipeline using YOLO for real-time target identification.
-
-- Implemented ByteTrack for multi-object tracking to maintain consistent IDs across video frames.
-- Trained and tested models in Google Colab using PyTorch, optimizing performance with limited data resources.
-- Handled dataset preparation, annotation, and augmentation, including experiments with fog simulation to improve robustness.
-- Analyzed model performance using metrics like precision, recall, and mAP, and fine-tuned hyperparameters for better accuracy.
-
-Strengthened skills in computer vision, deep learning, and real-time video analytics through defense-oriented use cases. | [GitHub](https://github.com/Meiyappan2006/Automatic_target_tracker) |
-| Imagify- AI Image Converter | Imagify is an AI-powered image editing project designed to transform and personalize photos based on user requirements.
-
-Built features to perform face-based transformations, including converting images into themed concepts like mom–son, dad–daughter, and creative edits.
-
-Implemented computer vision techniques for face detection, alignment, and region-based editing to ensure natural-looking results. | [Live](https://imagify-client2-huhq.onrender.com/) / [GitHub](https://github.com/Meiyappan2006/Imagify) |
-| ZorvDX |  | [Live](https://zorvdx-port.vercel.app/) / [GitHub](https://github.com/Meiyappan2006/zorvDX-port) |
-
-### ATT - DRDO
-
-**Technologies Used:** python, yolov8, bytetrack, Colab, Machine Learning, Data Science, Vision Tracking, Model building
-
-### Imagify- AI Image Converter
-
-<img src="https://res.cloudinary.com/dtj7ghsyt/image/upload/v1768552859/yz7ogyvfcnlgfckanobe.png" alt="Imagify- AI Image Converter" width="500"/>
-
-**Technologies Used:** React.js, Node.js, Express.js, Razorpay, MongoDB, MERN
-
-### ZorvDX
-
-<img src="https://res.cloudinary.com/dtj7ghsyt/image/upload/v1768553074/nbsfszdm32jfsbyi1zri.png" alt="ZorvDX" width="500"/>
-
-**Technologies Used:** Next.js, Node.js, TailwindCSS, Prisma, React.js, Framer-motion, TypeScript
 
 ## 🎓 Education
 
