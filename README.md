@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&color=FFFFFF&width=435&lines=Hi+!+I'm+Meiyappan+!;I+am+a+3rd+Year+CSE+Student+!)](https://git.io/typing-svg)
 
 
-## 🚀 About Me
+## About Me
 
-
-- I’m Meiyappan, a 3rd-year Computer Science Engineering student specializing in Data Science at Sathyabama Institute of Science and Technology.
 - Passionate about building real-world tech solutions using AI, Machine Learning, and Full Stack Development.
 - Strong in Python with hands-on experience in Django, REST APIs, and backend systems.
 - Skilled in JavaScript, React, Node.js, Express.js, and PostgreSQL for full stack development.
