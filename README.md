@@ -11,7 +11,9 @@
 - Active member of the Coding Club management team, contributing to tech events and peer learning.
 - Aspiring Software Development Engineer, eager to work on challenging problems and high-impact products.
 
+
 <hr style="height:3px;border:none;background:#444;" />
+
 
 ## 🎓 Education
 
@@ -26,7 +28,9 @@
 - Actively participated in technical clubs and events, contributing as part of the coding club management team.
 - Completed multiple industry-oriented projects that strengthened practical skills in AI, full stack development, and backend systems.
 
+
 <hr style="height:3px;border:none;background:#444;" />
+
 
 ## 💼 Internships
 
@@ -38,7 +42,9 @@
 
 - Completed an internship on Automatic Target Tracking (ATT) at DRDO, focusing on computer vision and deep learning applications.
 
+
 <hr style="height:3px;border:none;background:#444;" />
+
 
 ## ⚡ Fun Fact
 
@@ -48,7 +54,9 @@
 
 </div>
 
+
 <hr style="height:3px;border:none;background:#444;" />
+
 
 ## 🌐 Connect with Me
 
@@ -58,7 +66,9 @@
 
 </div>
 
+
 <hr style="height:3px;border:none;background:#444;" />
+
 
 ## 🛠️ Skills & Technologies
 
@@ -108,6 +118,25 @@
 
 
 <hr style="height:3px;border:none;background:#444;" />
+
+
+## GitHub Activity
+
+![Meiyappan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meiyappan2006&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Meiyappan2006)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiyappan2006&layout=compact)
+
+
+<hr style="height:3px;border:none;background:#444;" />
+
+
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Meiyappan2006)
+
+
+<hr style="height:3px;border:none;background:#444;" />
+
 
 <div align="center">
 
