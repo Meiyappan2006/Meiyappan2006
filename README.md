@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-<small>
+<p>
 - I’m Meiyappan, a 3rd-year Computer Science Engineering student specializing in Data Science at Sathyabama Institute of Science and Technology.
 - Passionate about building real-world tech solutions using AI, Machine Learning, and Full Stack Development.
 - Strong in Python with hands-on experience in Django, REST APIs, and backend systems.
@@ -11,7 +11,7 @@
 - Currently focused on DSA, System Design, and building scalable applications.
 - Active member of the Coding Club management team, contributing to tech events and peer learning.
 - Aspiring Software Development Engineer, eager to work on challenging problems and high-impact products.
-</small>
+</p>
 
 <hr style="height:3px;border:none;background:#444;" />
 
